@@ -1,5 +1,5 @@
 #! /usr/bin/python3
-"""a script symulating the cards game 'War''"""
+"""a script symulating the card game 'War''"""
 
 #card: suit,rank,value
 from random import shuffle
