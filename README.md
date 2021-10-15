@@ -1,2 +1,2 @@
 # warCardGame
-a script symulating the cards game 'War'
+a script simulating the cards game 'War'
